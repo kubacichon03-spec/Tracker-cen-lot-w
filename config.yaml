@@ -1,0 +1,49 @@
+# Konfiguracja trackera cen lotów
+# Zmieniaj tylko ten plik – kod czyta wszystko stąd.
+
+provider: fast_flights   # fast_flights (darmowy) | serpapi (płatny, klucz SERPAPI_KEY) | mock (dane testowe)
+currency: PLN
+language: pl
+country: pl
+adults: 1
+
+trip:
+  type: round_trip       # round_trip | one_way
+  stay_days: [20]        # długość pobytu; można podać kilka, np. [19, 20, 21]
+  return_to: KRK         # powrót ZAWSZE do Krakowa (wylot może być z innego lotniska)
+
+# STAŁE daty wylotu – to ważne: żeby badać, jak cena zmienia się w czasie,
+# trzeba wielokrotnie sprawdzać TE SAME daty. Zmień na swoje.
+# Można też podać listę konkretnych dat zamiast zakresu.
+departure_dates:
+  from: 2027-02-20
+  to: 2027-03-05
+  step_days: 2           # co ile dni sprawdzać (1 = każdy dzień, ale 2x więcej zapytań)
+  include_last: true     # zawsze dołącz datę końcową (5.03)
+
+# Lotniska wylotu (kod IATA: nazwa)
+origins:
+  KRK: Kraków
+  KTW: Katowice
+  WAW: Warszawa Chopin
+  PRG: Praga
+
+# Grupy celów (kraje). fast_flights pyta o każdą parę lotnisk osobno:
+# 4 lotniska wylotu x 4 docelowe x 8 dat = 128 zapytań na jedno sprawdzenie.
+# Powrót jest z tego samego lotniska, na które się przylatuje (np. HAN→KRK).
+destinations:
+  sri_lanka: [CMB]
+  wietnam: [SGN, HAN, DAD]
+
+# Preferencja Krakowa: lot z innego lotniska wygrywa tylko,
+# jeśli jest tańszy o więcej niż margin (w walucie powyżej).
+preference:
+  preferred_origins: [KRK]
+  margin: 150
+
+top_n: 3                 # ile najlepszych połączeń wybierać przy każdym sprawdzeniu
+max_stops: 2             # maks. liczba przesiadek (null = bez limitu)
+
+# Ustawienia darmowego providera fast_flights
+fast_flights:
+  delay_seconds: [3, 6]  # losowa przerwa między zapytaniami (mniej = szybciej, ale łatwiej o blokadę)
