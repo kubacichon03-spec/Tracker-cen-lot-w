@@ -41,6 +41,7 @@ jobs:
         run: |
           git config user.name "flight-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
+          mkdir -p data reports
           git add data reports
           git diff --cached --quiet || git commit -m "Ceny: $(date -u +'%Y-%m-%d %H:%M') UTC"
           git pull --rebase
