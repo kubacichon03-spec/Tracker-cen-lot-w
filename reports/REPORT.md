@@ -1,32 +1,13 @@
 # Raport cen lotów: Polska/Praga → Sri Lanka / Wietnam (powrót do Krakowa)
 
-Ostatnie sprawdzenie: **2026-11-14 15:15** (czas PL) · liczba sprawdzeń: 1 · od 2026-11-14
+Ostatnie sprawdzenie: **2026-11-14 23:42** (czas PL) · liczba sprawdzeń: 2 · od 2026-11-14
 
 ## TOP z ostatniego sprawdzenia
 
 | # | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|---|
-| 1 | 2 744 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
-| 2 | 2 760 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
-| 3 | 2 819 PLN | KRK→CMB | 2027-02-26 ↔ 2027-03-18 (powrót do KRK) | Air Arabia | 1 |
 
 ## Najtaniej teraz – osobno dla każdego kraju
-
-**sri_lanka** – najtaniej z Krakowa: 2 744 PLN
-
-| Cena | Trasa | Daty | Linie | Przesiadki |
-|---|---|---|---|---|
-| 2 744 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
-| 2 760 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
-| 2 819 PLN | KRK→CMB | 2027-02-26 ↔ 2027-03-18 (powrót do KRK) | Air Arabia | 1 |
-
-**wietnam** – najtaniej z Krakowa: 3 765 PLN
-
-| Cena | Trasa | Daty | Linie | Przesiadki |
-|---|---|---|---|---|
-| 3 765 PLN | KRK→SGN | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | KLM, Vietnam Airlines | 2 |
-| 3 779 PLN | KRK→SGN | 2027-03-04 ↔ 2027-03-24 (powrót do KRK) | Emirates, flydubai | 1 |
-| 3 799 PLN | KRK→SGN | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | KLM, Malaysia Airlines | 2 |
 
 ## 3 najniższe ceny każdego dnia (ostatnie 14 dni, ze wszystkich sprawdzeń)
 
@@ -65,3 +46,23 @@ Ostatnie sprawdzenie: **2026-11-14 15:15** (czas PL) · liczba sprawdzeń: 1 · 
 |---|---|---|
 | 105–111 | 3 520 PLN | 8 |
 | 98–104 | 3 717 PLN | 8 |
+
+## Błędy w ostatnim sprawdzeniu
+
+```
+wietnam 2027-02-20→2027-03-12: WAW-SGN: Google: blocked; WAW-HAN: Google: blocked; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-02-22→2027-03-14: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-02-22→2027-03-14: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-02-24→2027-03-16: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-02-24→2027-03-16: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-02-26→2027-03-18: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-02-26→2027-03-18: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-02-28→2027-03-20: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-02-28→2027-03-20: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-03-02→2027-03-22: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-03-02→2027-03-22: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-03-04→2027-03-24: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-03-04→2027-03-24: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+sri_lanka 2027-03-05→2027-03-25: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
+wietnam 2027-03-05→2027-03-25: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+```
