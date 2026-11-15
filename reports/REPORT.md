@@ -1,6 +1,6 @@
 # Raport cen lotów: Polska/Praga → Sri Lanka / Wietnam (powrót do Krakowa)
 
-Ostatnie sprawdzenie: **2026-11-14 23:42** (czas PL) · liczba sprawdzeń: 2 · od 2026-11-14
+Ostatnie sprawdzenie: **2026-11-15 08:05** (czas PL) · liczba sprawdzeń: 3 · od 2026-11-14
 
 ## TOP z ostatniego sprawdzenia
 
@@ -50,7 +50,7 @@ Ostatnie sprawdzenie: **2026-11-14 23:42** (czas PL) · liczba sprawdzeń: 2 · 
 ## Błędy w ostatnim sprawdzeniu
 
 ```
-wietnam 2027-02-20→2027-03-12: WAW-SGN: Google: blocked; WAW-HAN: Google: blocked; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+wietnam 2027-02-20→2027-03-12: KRK-DAD: Google: blocked; KTW-SGN: Google: blocked; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
 sri_lanka 2027-02-22→2027-03-14: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
 wietnam 2027-02-22→2027-03-14: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
 sri_lanka 2027-02-24→2027-03-16: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
