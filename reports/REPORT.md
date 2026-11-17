@@ -1,32 +1,13 @@
 # Raport cen lotów: Polska/Praga → Sri Lanka / Wietnam (powrót do Krakowa)
 
-Ostatnie sprawdzenie: **2026-11-17 08:21** (czas PL) · liczba sprawdzeń: 8 · od 2026-11-14
+Ostatnie sprawdzenie: **2026-11-17 15:57** (czas PL) · liczba sprawdzeń: 9 · od 2026-11-14
 
 ## TOP z ostatniego sprawdzenia
 
 | # | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|---|
-| 1 | 2 686 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 | 2 703 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 3 | 3 446 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | flydubai | 1 |
 
 ## Najtaniej teraz – osobno dla każdego kraju
-
-**sri_lanka** – najtaniej z Krakowa: 2 686 PLN
-
-| Cena | Trasa | Daty | Linie | Przesiadki |
-|---|---|---|---|---|
-| 2 686 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 703 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 3 446 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | flydubai | 1 |
-
-**wietnam** – najtaniej z Krakowa: 4 724 PLN
-
-| Cena | Trasa | Daty | Linie | Przesiadki |
-|---|---|---|---|---|
-| 4 724 PLN | KRK→HAN | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Qatar Airways, SWISS | 2 |
-| 4 757 PLN | KRK→SGN | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Emirates, flydubai | 1 |
-| 4 841 PLN | KRK→HAN | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Lufthansa, Qatar Airways | 2 |
 
 ## 3 najniższe ceny każdego dnia (ostatnie 14 dni, ze wszystkich sprawdzeń)
 
