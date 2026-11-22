@@ -1,24 +1,24 @@
 # Raport cen lotów: Polska/Praga → Sri Lanka / Wietnam (powrót do Krakowa)
 
-Ostatnie sprawdzenie: **2026-11-22 15:53** (czas PL) · liczba sprawdzeń: 19 · od 2026-11-14
+Ostatnie sprawdzenie: **2026-11-22 23:48** (czas PL) · liczba sprawdzeń: 20 · od 2026-11-14
 
 ## TOP z ostatniego sprawdzenia
 
 | # | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|---|
-| 1 | 2 727 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 | 2 745 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 3 | 2 855 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 1 | 2 854 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 2 | 2 870 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 3 | 2 922 PLN | KRK→CMB | 2027-03-04 ↔ 2027-03-24 (powrót do KRK) | Air Arabia | 1 |
 
 ## Najtaniej teraz – osobno dla każdego kraju
 
-**sri_lanka** – najtaniej z Krakowa: 2 727 PLN
+**sri_lanka** – najtaniej z Krakowa: 2 854 PLN
 
 | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|
-| 2 727 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 745 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 855 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 2 854 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 2 870 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 2 922 PLN | KRK→CMB | 2027-03-04 ↔ 2027-03-24 (powrót do KRK) | Air Arabia | 1 |
 
 **wietnam** – najtaniej z Krakowa: 3 782 PLN
 
@@ -32,7 +32,7 @@ Ostatnie sprawdzenie: **2026-11-22 15:53** (czas PL) · liczba sprawdzeń: 19 ·
 
 | Dzień | 1. | 2. | 3. |
 |---|---|---|---|
-| 2026-11-22 | 2 727 PLN KRK→CMB 2027-02-20 | 2 745 PLN KRK→CMB 2027-02-20 | 2 855 PLN KRK→CMB 2027-02-24 |
+| 2026-11-22 | 2 727 PLN KRK→CMB 2027-02-20 | 2 745 PLN KRK→CMB 2027-02-20 | 2 854 PLN KRK→CMB 2027-02-24 |
 | 2026-11-21 | 2 727 PLN KRK→CMB 2027-02-20 | 2 745 PLN KRK→CMB 2027-02-20 | 2 855 PLN KRK→CMB 2027-02-24 |
 | 2026-11-20 | 2 717 PLN KRK→CMB 2027-02-20 | 2 734 PLN KRK→CMB 2027-02-20 | 2 839 PLN KRK→CMB 2027-02-24 |
 | 2026-11-19 | 2 713 PLN KRK→CMB 2027-02-20 | 2 731 PLN KRK→CMB 2027-02-20 | 2 838 PLN KRK→CMB 2027-02-24 |
@@ -46,21 +46,21 @@ Ostatnie sprawdzenie: **2026-11-22 15:53** (czas PL) · liczba sprawdzeń: 19 ·
 
 | Kraj | Wylot | Teraz | Min. widziane | Mediana | Zmiana od 1. sprawdzenia | Z Krakowa teraz |
 |---|---|---|---|---|---|---|
-| sri_lanka | 2027-02-20 ↔ 2027-03-12 | 2 727 PLN | 2 682 PLN | 2 721 PLN | -1 884 (-41%) | 2 727 PLN |
-| sri_lanka | 2027-02-22 ↔ 2027-03-14 | 3 121 PLN | 3 059 PLN | 3 118 PLN | +58 (+2%) | 3 121 PLN |
-| sri_lanka | 2027-02-24 ↔ 2027-03-16 | 2 855 PLN | 2 744 PLN | 2 844 PLN | +111 (+4%) | 2 855 PLN |
-| sri_lanka | 2027-02-26 ↔ 2027-03-18 | 3 005 PLN | 2 817 PLN | 2 994 PLN | +186 (+7%) | 3 005 PLN |
-| sri_lanka | 2027-02-28 ↔ 2027-03-20 | 2 934 PLN | 2 885 PLN | 2 932 PLN | +49 (+2%) | 2 934 PLN |
-| sri_lanka | 2027-03-02 ↔ 2027-03-22 | 2 960 PLN | 2 910 PLN | 2 949 PLN | +50 (+2%) | 2 960 PLN |
-| sri_lanka | 2027-03-04 ↔ 2027-03-24 | 4 217 PLN | 2 874 PLN | 2 922 PLN | +9 (+0%) | — |
-| sri_lanka | 2027-03-05 ↔ 2027-03-25 | 2 939 PLN | 2 889 PLN | 2 938 PLN | +50 (+2%) | 2 939 PLN |
+| sri_lanka | 2027-02-20 ↔ 2027-03-12 | 4 620 PLN | 2 682 PLN | 2 725 PLN | +9 (+0%) | — |
+| sri_lanka | 2027-02-22 ↔ 2027-03-14 | 3 120 PLN | 3 059 PLN | 3 119 PLN | +57 (+2%) | 3 120 PLN |
+| sri_lanka | 2027-02-24 ↔ 2027-03-16 | 2 854 PLN | 2 744 PLN | 2 849 PLN | +110 (+4%) | 2 854 PLN |
+| sri_lanka | 2027-02-26 ↔ 2027-03-18 | 2 938 PLN | 2 817 PLN | 2 991 PLN | +119 (+4%) | 2 938 PLN |
+| sri_lanka | 2027-02-28 ↔ 2027-03-20 | 2 934 PLN | 2 885 PLN | 2 934 PLN | +49 (+2%) | 2 934 PLN |
+| sri_lanka | 2027-03-02 ↔ 2027-03-22 | 2 960 PLN | 2 910 PLN | 2 955 PLN | +50 (+2%) | 2 960 PLN |
+| sri_lanka | 2027-03-04 ↔ 2027-03-24 | 2 922 PLN | 2 874 PLN | 2 922 PLN | -1 286 (-31%) | 2 922 PLN |
+| sri_lanka | 2027-03-05 ↔ 2027-03-25 | 2 938 PLN | 2 889 PLN | 2 938 PLN | +49 (+2%) | 2 938 PLN |
 | wietnam | 2027-02-20 ↔ 2027-03-12 | 4 460 PLN | 4 082 PLN | 4 460 PLN | -103 (-2%) | 4 460 PLN |
-| wietnam | 2027-02-22 ↔ 2027-03-14 | 4 046 PLN | 3 816 PLN | 4 038 PLN | +8 (+0%) | 4 046 PLN |
-| wietnam | 2027-02-24 ↔ 2027-03-16 | 4 150 PLN | 3 765 PLN | 3 884 PLN | +385 (+10%) | 4 150 PLN |
-| wietnam | 2027-02-26 ↔ 2027-03-18 | 4 179 PLN | 4 134 PLN | 4 179 PLN | +45 (+1%) | 4 254 PLN |
+| wietnam | 2027-02-22 ↔ 2027-03-14 | 4 046 PLN | 3 816 PLN | 4 039 PLN | +8 (+0%) | 4 046 PLN |
+| wietnam | 2027-02-24 ↔ 2027-03-16 | 3 993 PLN | 3 765 PLN | 3 970 PLN | +228 (+6%) | 3 993 PLN |
+| wietnam | 2027-02-26 ↔ 2027-03-18 | 4 180 PLN | 4 134 PLN | 4 179 PLN | +46 (+1%) | 4 254 PLN |
 | wietnam | 2027-02-28 ↔ 2027-03-20 | 4 012 PLN | 3 798 PLN | 4 006 PLN | +213 (+6%) | 4 012 PLN |
 | wietnam | 2027-03-02 ↔ 2027-03-22 | 3 782 PLN | 3 606 PLN | 3 782 PLN | -17 (-0%) | 3 782 PLN |
-| wietnam | 2027-03-04 ↔ 2027-03-24 | 3 787 PLN | 3 779 PLN | 3 784 PLN | +8 (+0%) | 3 787 PLN |
+| wietnam | 2027-03-04 ↔ 2027-03-24 | 3 787 PLN | 3 779 PLN | 3 787 PLN | +8 (+0%) | 3 787 PLN |
 | wietnam | 2027-03-05 ↔ 2027-03-25 | 3 902 PLN | 3 894 PLN | 3 897 PLN | +8 (+0%) | 3 902 PLN |
 
 ![sri_lanka](trend_sri_lanka.png)
@@ -73,15 +73,15 @@ Ostatnie sprawdzenie: **2026-11-22 15:53** (czas PL) · liczba sprawdzeń: 19 ·
 
 | Godzina (PL) | Odchylenie | Liczba pomiarów |
 |---|---|---|
-| 08:00 | +5.8% | 50 |
-| 15:00 | +3.9% | 36 |
-| 23:00 | +0.8% | 83 |
+| 08:00 | +5.6% | 50 |
+| 15:00 | +3.7% | 36 |
+| 23:00 | +1.2% | 99 |
 
 ## Cena a liczba dni do wylotu
 
 | Dni do wylotu | Średnia cena | Pomiary |
 |---|---|---|
 | 105–111 | 3 464 PLN | 28 |
-| 98–104 | 3 528 PLN | 78 |
-| 91–97 | 3 614 PLN | 59 |
-| 84–90 | 3 611 PLN | 4 |
+| 98–104 | 3 516 PLN | 86 |
+| 91–97 | 3 606 PLN | 65 |
+| 84–90 | 3 921 PLN | 6 |
