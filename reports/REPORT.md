@@ -1,37 +1,38 @@
 # Raport cen lotów: Polska/Praga → Sri Lanka / Wietnam (powrót do Krakowa)
 
-Ostatnie sprawdzenie: **2026-11-26 16:06** (czas PL) · liczba sprawdzeń: 27 · od 2026-11-14
+Ostatnie sprawdzenie: **2026-11-27 00:01** (czas PL) · liczba sprawdzeń: 28 · od 2026-11-14
 
 ## TOP z ostatniego sprawdzenia
 
 | # | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|---|
-| 1 | 2 740 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 | 2 757 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 3 | 2 879 PLN | KRK→CMB | 2027-02-22 ↔ 2027-03-14 (powrót do KRK) | Air Arabia | 1 |
+| 1 | 2 731 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 2 | 2 741 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
+| 3 | 2 744 PLN | KRK→CMB | 2027-02-26 ↔ 2027-03-18 (powrót do KRK) | Air Arabia | 1 |
 
 ## Najtaniej teraz – osobno dla każdego kraju
 
-**sri_lanka** – najtaniej z Krakowa: 2 740 PLN
+**sri_lanka** – najtaniej z Krakowa: 2 731 PLN
 
 | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|
-| 2 740 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 757 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 879 PLN | KRK→CMB | 2027-02-22 ↔ 2027-03-14 (powrót do KRK) | Air Arabia | 1 |
+| 2 731 PLN | KRK→CMB | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Air Arabia | 1 |
+| 2 741 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
+| 2 744 PLN | KRK→CMB | 2027-02-26 ↔ 2027-03-18 (powrót do KRK) | Air Arabia | 1 |
 
-**wietnam** – najtaniej z Krakowa: 3 935 PLN
+**wietnam** – najtaniej z Krakowa: 3 888 PLN
 
 | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|
-| 3 935 PLN | KRK→HAN | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | Lufthansa, Qatar Airways | 2 |
-| 4 082 PLN | KRK→SGN | 2027-02-24 ↔ 2027-03-16 (powrót do KRK) | KLM, Vietnam Airlines | 2 |
-| 4 107 PLN | KRK→SGN | 2027-02-22 ↔ 2027-03-14 (powrót do KRK) | KLM, Malaysia Airlines | 2 |
+| 3 888 PLN | KRK→SGN | 2027-03-02 ↔ 2027-03-22 (powrót do KRK) | KLM, Vietnam Airlines | 2 |
+| 3 911 PLN | KRK→SGN | 2027-03-02 ↔ 2027-03-22 (powrót do KRK) | KLM, Malaysia Airlines | 2 |
+| 3 917 PLN | KRK→SGN | 2027-03-02 ↔ 2027-03-22 (powrót do KRK) | KLM, Singapore Airlines | 2 |
 
 ## 3 najniższe ceny każdego dnia (ostatnie 14 dni, ze wszystkich sprawdzeń)
 
 | Dzień | 1. | 2. | 3. |
 |---|---|---|---|
+| 2026-11-27 | 2 731 PLN KRK→CMB 2027-02-24 | 2 741 PLN KRK→CMB 2027-02-20 | 2 744 PLN KRK→CMB 2027-02-26 |
 | 2026-11-26 | 2 736 PLN KRK→CMB 2027-02-20 | 2 754 PLN KRK→CMB 2027-02-20 | 2 877 PLN KRK→CMB 2027-02-22 |
 | 2026-11-25 | 2 887 PLN KRK→CMB 2027-02-22 | 2 904 PLN KRK→CMB 2027-02-22 | 3 737 PLN KRK→CMB 2027-02-22 |
 | 2026-11-23 | 2 727 PLN KRK→CMB 2027-02-24 | 2 733 PLN KRK→CMB 2027-02-20 | 2 739 PLN KRK→CMB 2027-02-26 |
@@ -49,22 +50,22 @@ Ostatnie sprawdzenie: **2026-11-26 16:06** (czas PL) · liczba sprawdzeń: 27 ·
 
 | Kraj | Wylot | Teraz | Min. widziane | Mediana | Zmiana od 1. sprawdzenia | Z Krakowa teraz |
 |---|---|---|---|---|---|---|
-| sri_lanka | 2027-02-20 ↔ 2027-03-12 | 2 740 PLN | 2 682 PLN | 2 727 PLN | -1 871 (-41%) | 2 740 PLN |
-| sri_lanka | 2027-02-22 ↔ 2027-03-14 | 2 879 PLN | 2 877 PLN | 3 108 PLN | -184 (-6%) | 2 879 PLN |
-| sri_lanka | 2027-02-24 ↔ 2027-03-16 | 2 727 PLN | 2 727 PLN | 2 849 PLN | -17 (-1%) | 2 727 PLN |
-| sri_lanka | 2027-02-26 ↔ 2027-03-18 | 2 739 PLN | 2 739 PLN | 2 989 PLN | -80 (-3%) | 2 739 PLN |
-| sri_lanka | 2027-02-28 ↔ 2027-03-20 | 2 943 PLN | 2 885 PLN | 2 934 PLN | +58 (+2%) | 2 943 PLN |
-| sri_lanka | 2027-03-02 ↔ 2027-03-22 | 2 933 PLN | 2 910 PLN | 2 955 PLN | +23 (+1%) | 2 933 PLN |
-| sri_lanka | 2027-03-04 ↔ 2027-03-24 | 2 929 PLN | 2 874 PLN | 2 922 PLN | -1 279 (-30%) | 2 929 PLN |
-| sri_lanka | 2027-03-05 ↔ 2027-03-25 | 2 941 PLN | 2 889 PLN | 2 939 PLN | +52 (+2%) | 2 941 PLN |
-| wietnam | 2027-02-20 ↔ 2027-03-12 | 4 681 PLN | 4 082 PLN | 4 503 PLN | +118 (+3%) | 4 681 PLN |
-| wietnam | 2027-02-22 ↔ 2027-03-14 | 4 107 PLN | 3 816 PLN | 4 040 PLN | +69 (+2%) | 4 107 PLN |
-| wietnam | 2027-02-24 ↔ 2027-03-16 | 3 935 PLN | 3 765 PLN | 3 971 PLN | +170 (+5%) | 3 935 PLN |
-| wietnam | 2027-02-26 ↔ 2027-03-18 | 4 172 PLN | 4 134 PLN | 4 179 PLN | +38 (+1%) | 4 387 PLN |
-| wietnam | 2027-02-28 ↔ 2027-03-20 | 4 012 PLN | 3 798 PLN | 4 012 PLN | +213 (+6%) | 4 012 PLN |
-| wietnam | 2027-03-02 ↔ 2027-03-22 | 4 066 PLN | 3 606 PLN | 3 782 PLN | +267 (+7%) | 4 380 PLN |
-| wietnam | 2027-03-04 ↔ 2027-03-24 | 3 787 PLN | 3 779 PLN | 3 787 PLN | +8 (+0%) | 3 787 PLN |
-| wietnam | 2027-03-05 ↔ 2027-03-25 | 3 902 PLN | 3 894 PLN | 3 902 PLN | +8 (+0%) | 3 902 PLN |
+| sri_lanka | 2027-02-20 ↔ 2027-03-12 | 2 741 PLN | 2 682 PLN | 2 727 PLN | -1 870 (-41%) | 2 741 PLN |
+| sri_lanka | 2027-02-22 ↔ 2027-03-14 | 2 953 PLN | 2 877 PLN | 3 098 PLN | -110 (-4%) | 2 953 PLN |
+| sri_lanka | 2027-02-24 ↔ 2027-03-16 | 2 731 PLN | 2 727 PLN | 2 844 PLN | -13 (-0%) | 2 731 PLN |
+| sri_lanka | 2027-02-26 ↔ 2027-03-18 | 2 744 PLN | 2 739 PLN | 2 964 PLN | -75 (-3%) | 2 744 PLN |
+| sri_lanka | 2027-02-28 ↔ 2027-03-20 | 2 948 PLN | 2 885 PLN | 2 934 PLN | +63 (+2%) | 2 948 PLN |
+| sri_lanka | 2027-03-02 ↔ 2027-03-22 | 2 941 PLN | 2 910 PLN | 2 949 PLN | +31 (+1%) | 2 941 PLN |
+| sri_lanka | 2027-03-04 ↔ 2027-03-24 | 2 936 PLN | 2 874 PLN | 2 922 PLN | -1 272 (-30%) | 2 936 PLN |
+| sri_lanka | 2027-03-05 ↔ 2027-03-25 | 2 953 PLN | 2 889 PLN | 2 939 PLN | +64 (+2%) | 2 953 PLN |
+| wietnam | 2027-02-20 ↔ 2027-03-12 | 4 328 PLN | 4 082 PLN | 4 475 PLN | -235 (-5%) | 4 328 PLN |
+| wietnam | 2027-02-22 ↔ 2027-03-14 | 4 113 PLN | 3 816 PLN | 4 040 PLN | +75 (+2%) | 4 113 PLN |
+| wietnam | 2027-02-24 ↔ 2027-03-16 | 4 088 PLN | 3 765 PLN | 3 972 PLN | +323 (+9%) | 4 088 PLN |
+| wietnam | 2027-02-26 ↔ 2027-03-18 | 4 202 PLN | 4 134 PLN | 4 179 PLN | +68 (+2%) | 4 495 PLN |
+| wietnam | 2027-02-28 ↔ 2027-03-20 | 4 122 PLN | 3 798 PLN | 4 012 PLN | +323 (+9%) | 4 122 PLN |
+| wietnam | 2027-03-02 ↔ 2027-03-22 | 3 888 PLN | 3 606 PLN | 3 782 PLN | +89 (+2%) | 3 888 PLN |
+| wietnam | 2027-03-04 ↔ 2027-03-24 | 4 166 PLN | 3 779 PLN | 3 787 PLN | +387 (+10%) | 4 166 PLN |
+| wietnam | 2027-03-05 ↔ 2027-03-25 | 3 922 PLN | 3 894 PLN | 3 902 PLN | +28 (+1%) | 3 922 PLN |
 
 ![sri_lanka](trend_sri_lanka.png)
 
@@ -76,34 +77,17 @@ Ostatnie sprawdzenie: **2026-11-26 16:06** (czas PL) · liczba sprawdzeń: 27 ·
 
 | Godzina (PL) | Odchylenie | Liczba pomiarów |
 |---|---|---|
-| 08:00 | +5.7% | 70 |
-| 15:00 | +3.7% | 36 |
-| 16:00 | -0.3% | 12 |
-| 23:00 | +0.9% | 115 |
+| 00:00 | +0.2% | 16 |
+| 08:00 | +5.8% | 70 |
+| 15:00 | +3.8% | 36 |
+| 16:00 | -0.0% | 12 |
+| 23:00 | +1.0% | 115 |
 
 ## Cena a liczba dni do wylotu
 
 | Dni do wylotu | Średnia cena | Pomiary |
 |---|---|---|
 | 105–111 | 3 464 PLN | 28 |
-| 98–104 | 3 516 PLN | 98 |
-| 91–97 | 3 580 PLN | 83 |
-| 84–90 | 3 830 PLN | 24 |
-
-## Błędy w ostatnim sprawdzeniu
-
-```
-sri_lanka 2027-02-20→2027-03-12: KTW-CMB: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out
-wietnam 2027-02-20→2027-03-12: WAW-DAD: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out
-wietnam 2027-02-24→2027-03-16: KTW-SGN: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out; WAW-SGN: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out; WAW-HAN: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
-sri_lanka 2027-02-26→2027-03-18: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
-wietnam 2027-02-26→2027-03-18: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
-sri_lanka 2027-02-28→2027-03-20: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
-wietnam 2027-02-28→2027-03-20: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
-sri_lanka 2027-03-02→2027-03-22: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
-wietnam 2027-03-02→2027-03-22: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
-sri_lanka 2027-03-04→2027-03-24: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
-wietnam 2027-03-04→2027-03-24: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
-sri_lanka 2027-03-05→2027-03-25: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
-wietnam 2027-03-05→2027-03-25: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
-```
+| 98–104 | 3 514 PLN | 100 |
+| 91–97 | 3 573 PLN | 91 |
+| 84–90 | 3 762 PLN | 30 |
