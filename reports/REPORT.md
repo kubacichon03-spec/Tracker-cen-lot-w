@@ -1,32 +1,13 @@
 # Raport cen lotów: Polska/Praga → Sri Lanka / Wietnam (powrót do Krakowa)
 
-Ostatnie sprawdzenie: **2026-11-27 16:00** (czas PL) · liczba sprawdzeń: 30 · od 2026-11-14
+Ostatnie sprawdzenie: **2026-11-28 08:17** (czas PL) · liczba sprawdzeń: 31 · od 2026-11-14
 
 ## TOP z ostatniego sprawdzenia
 
 | # | Cena | Trasa | Daty | Linie | Przesiadki |
 |---|---|---|---|---|---|
-| 1 | 2 736 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 | 2 754 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 3 | 4 042 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | flydubai | 1 |
 
 ## Najtaniej teraz – osobno dla każdego kraju
-
-**sri_lanka** – najtaniej z Krakowa: 2 736 PLN
-
-| Cena | Trasa | Daty | Linie | Przesiadki |
-|---|---|---|---|---|
-| 2 736 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 2 754 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Air Arabia | 1 |
-| 4 042 PLN | KRK→CMB | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | flydubai | 1 |
-
-**wietnam** – najtaniej z Krakowa: 4 510 PLN
-
-| Cena | Trasa | Daty | Linie | Przesiadki |
-|---|---|---|---|---|
-| 4 510 PLN | KRK→HAN | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Lufthansa, Qatar Airways | 2 |
-| 4 979 PLN | KRK→HAN | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Emirates, flydubai | 1 |
-| 5 013 PLN | KRK→SGN | 2027-02-20 ↔ 2027-03-12 (powrót do KRK) | Lufthansa, Qatar Airways | 2 |
 
 ## 3 najniższe ceny każdego dnia (ostatnie 14 dni, ze wszystkich sprawdzeń)
 
@@ -95,8 +76,7 @@ Ostatnie sprawdzenie: **2026-11-27 16:00** (czas PL) · liczba sprawdzeń: 30 ·
 ## Błędy w ostatnim sprawdzeniu
 
 ```
-sri_lanka 2027-02-20→2027-03-12: WAW-CMB: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out
-wietnam 2027-02-20→2027-03-12: KTW-DAD: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out; WAW-HAN: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out; WAW-DAD: TimeoutError: error sending request for url (https://www.google.com/_/FlightsFrontendUi/data/travel.frontend.flights.FlightsFrontendService/GetShoppingResults?f.sid=6697578230526900010&bl=boq_travel-frontend-flights-ui_20260303.06_p0&hl=pl&gl=US&curr=PLN&soc-app=162&soc-platform=1&soc-device=1&rt=c) > operation timed out; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
+wietnam 2027-02-20→2027-03-12: KRK-HAN: Google: blocked; KRK-DAD: Google: blocked; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
 sri_lanka 2027-02-22→2027-03-14: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
 wietnam 2027-02-22→2027-03-14: KRK-SGN: pominięte – Google blokuje zapytania; KRK-HAN: pominięte – Google blokuje zapytania; KRK-DAD: pominięte – Google blokuje zapytania; KTW-SGN: pominięte – Google blokuje zapytania; KTW-HAN: pominięte – Google blokuje zapytania; KTW-DAD: pominięte – Google blokuje zapytania; WAW-SGN: pominięte – Google blokuje zapytania; WAW-HAN: pominięte – Google blokuje zapytania; WAW-DAD: pominięte – Google blokuje zapytania; PRG-SGN: pominięte – Google blokuje zapytania; PRG-HAN: pominięte – Google blokuje zapytania; PRG-DAD: pominięte – Google blokuje zapytania
 sri_lanka 2027-02-24→2027-03-16: KRK-CMB: pominięte – Google blokuje zapytania; KTW-CMB: pominięte – Google blokuje zapytania; WAW-CMB: pominięte – Google blokuje zapytania; PRG-CMB: pominięte – Google blokuje zapytania
